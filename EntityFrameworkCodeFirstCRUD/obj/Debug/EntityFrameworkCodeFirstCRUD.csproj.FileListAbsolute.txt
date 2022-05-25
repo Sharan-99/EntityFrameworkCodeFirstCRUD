@@ -1,0 +1,14 @@
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\bin\Debug\EntityFrameworkCodeFirstCRUD.exe.config
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\bin\Debug\EntityFrameworkCodeFirstCRUD.exe
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\bin\Debug\EntityFrameworkCodeFirstCRUD.pdb
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\bin\Debug\EntityFramework.dll
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\bin\Debug\EntityFramework.xml
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\obj\Debug\EntityFrameworkCodeFirstCRUD.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\obj\Debug\EntityFrameworkCodeFirstCRUD.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\obj\Debug\EntityFrameworkCodeFirstCRUD.csproj.CopyComplete
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\obj\Debug\EntityFrameworkCodeFirstCRUD.exe
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\obj\Debug\EntityFrameworkCodeFirstCRUD.pdb
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\obj\Debug\EntityFrameworkCodeFirstCRUD.Migrations.AddProductEntity.resources
+C:\Users\2091199\source\repos\EntityFrameworkCodeFirstCRUD\EntityFrameworkCodeFirstCRUD\obj\Debug\EntityFrameworkCodeFirstCRUD.csproj.GenerateResource.cache
